@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class ScrumboardConfig(AppConfig):
-    name = 'scrumboard'
+class ScrumtrackerConfig(AppConfig):
+    name = 'scrumtracker'
